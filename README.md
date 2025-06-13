@@ -15,11 +15,11 @@
 
 ## 👥 Team Members & Roles
 
-| Name                 | Role              |
-|----------------------|-------------------|
-| Hakan Akduman        | Software Developer |
+| Name                 | Role               |
+|----------------------|--------------------|
 | Ahmed Cengiz Yavuz   | Software Developer |
-| Gülnaz Hilmioğlu     | Software Developer |
+| H*****n A****n       | Software Developer |
+| G*****z H****u       | Software Developer |
 
 ---
 
@@ -117,9 +117,7 @@ Refer to the [Final Report](docs/final_report.pdf) for academic references and t
 
 For academic or entrepreneurial inquiries, please contact:
 
-- hakan.akduman@example.com
-- ahmed.cengiz@example.com
-- gulnaz.hilmioglu@example.com
+- ahmedcengiz.yavuz@ogr.deu.edu.tr
 
 ---
 
