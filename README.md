@@ -68,14 +68,6 @@
 
 ---
 
-## 📷 Screenshots
-
-| Hardware Unit | Bluetooth Info Display | Android App |
-|---------------|------------------------|-------------|
-| ![Hardware](assets/hardware.jpg) | ![Bluetooth](assets/bluetooth.jpg) | ![App](assets/app.jpg) |
-
----
-
 ## 📊 Tech Stack
 
 - **Microcontroller**: ESP32 DevKitC
