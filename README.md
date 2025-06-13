@@ -101,7 +101,7 @@
 
 ## 📚 References
 
-Refer to the [Final Report](Final Raporu.pdf) for academic references and technical documentation.
+Refer to to the Final Raporu.pdf for academic references and technical documentation.
 
 ---
 
